@@ -1,4 +1,4 @@
-# OASIS
+### OASIS
 AICTE Oasis Infobyte Data Science Internship Overview Welcome to my GitHub repository for the AICTE Oasis Infobyte Data Science Internship. This repository contains all the tasks and projects I completed during my internship, showcasing my journey and growth in the field of data science.
 
 
@@ -16,3 +16,7 @@ download the same dataset from here for the task of iris flower classification w
 Learning. 
 
 Dataset: https://www.kaggle.com/datasets/saurabh00007/iriscsv
+Model: IRIS FLOWER CLASSIFICATION.ipynb
+
+
+**
