@@ -3,6 +3,7 @@ AICTE Oasis Infobyte Data Science Internship Overview Welcome to my GitHub repos
 
 
 **#TASK1**
+**IRIS FLOWER CLASSIFICATION**
 
 Iris flower has three species; setosa, versicolor, and virginica, which differs according to their
 measurements. Now assume that you have the measurements of the iris flowers according to
@@ -19,4 +20,18 @@ Dataset: https://www.kaggle.com/datasets/saurabh00007/iriscsv
 Model: IRIS FLOWER CLASSIFICATION.ipynb
 
 
-**
+**#TASK2**
+**CAR PRICE PREDICTION**
+
+Car price prediction involves creating a machine learning model that can predict the price of a car based on various features such as make, model, year, mileage, etc. The goal is to accurately estimate the price of a car using historical data and feature analysis.
+
+Dataset: https://github.com/laxmi-narayan-87/OIBSIP_DATA-SCIENCE/blob/main/car%20data.csv
+Model: [Car Price Prediction.ipynb](https://github.com/laxmi-narayan-87/OIBSIP_DATA-SCIENCE/blob/main/Car%20Price%20Prediction.ipynb)
+
+**#TASK3** 
+**SPAM DETECTION**
+
+Spam detection is the process of identifying and filtering out unwanted or unsolicited emails, messages, or content based on certain criteria. The task involves training a machine learning model to classify messages as spam or not spam, using features such as text content, sender information, and other relevant attributes.
+
+Dataset: https://github.com/laxmi-narayan-87/OIBSIP_DATA-SCIENCE/blob/main/spam.csv 
+Model: [Spam Detection.ipynb](https://github.com/laxmi-narayan-87/OIBSIP_DATA-SCIENCE/blob/main/Spam_Detection.ipynb)
