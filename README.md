@@ -17,6 +17,7 @@ download the same dataset from here for the task of iris flower classification w
 Learning. 
 
 Dataset: https://www.kaggle.com/datasets/saurabh00007/iriscsv
+
 Model: IRIS FLOWER CLASSIFICATION.ipynb
 
 
@@ -26,6 +27,7 @@ Model: IRIS FLOWER CLASSIFICATION.ipynb
 Car price prediction involves creating a machine learning model that can predict the price of a car based on various features such as make, model, year, mileage, etc. The goal is to accurately estimate the price of a car using historical data and feature analysis.
 
 Dataset: https://github.com/laxmi-narayan-87/OIBSIP_DATA-SCIENCE/blob/main/car%20data.csv
+
 Model: [Car Price Prediction.ipynb](https://github.com/laxmi-narayan-87/OIBSIP_DATA-SCIENCE/blob/main/Car%20Price%20Prediction.ipynb)
 
 **#TASK3** 
@@ -34,4 +36,5 @@ Model: [Car Price Prediction.ipynb](https://github.com/laxmi-narayan-87/OIBSIP_D
 Spam detection is the process of identifying and filtering out unwanted or unsolicited emails, messages, or content based on certain criteria. The task involves training a machine learning model to classify messages as spam or not spam, using features such as text content, sender information, and other relevant attributes.
 
 Dataset: https://github.com/laxmi-narayan-87/OIBSIP_DATA-SCIENCE/blob/main/spam.csv 
+
 Model: [Spam Detection.ipynb](https://github.com/laxmi-narayan-87/OIBSIP_DATA-SCIENCE/blob/main/Spam_Detection.ipynb)
