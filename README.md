@@ -18,7 +18,7 @@ Learning.
 
 Dataset: https://www.kaggle.com/datasets/saurabh00007/iriscsv
 
-Model: IRIS FLOWER CLASSIFICATION.ipynb
+Model: https://github.com/laxmi-narayan-87/OIBSIP_DATA-SCIENCE/blob/main/IRIS%20FLOWER%20CLASSIFICATION.ipynb
 
 
 **#TASK2**
