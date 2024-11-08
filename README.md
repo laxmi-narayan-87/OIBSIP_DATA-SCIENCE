@@ -16,7 +16,7 @@ Although the Scikit-learn library provides a dataset for iris flower classificat
 download the same dataset from here for the task of iris flower classification with Machine
 Learning. 
 
-Dataset: https://www.kaggle.com/datasets/saurabh00007/iriscsv
+Dataset: https://github.com/laxmi-narayan-87/OIBSIP_DATA-SCIENCE/blob/main/Iris.csv
 
 Model:[Iris Flower Classification.ipynb](https://github.com/laxmi-narayan-87/OIBSIP_DATA-SCIENCE/blob/main/IRIS%20FLOWER%20CLASSIFICATION.ipynb)
 
